@@ -1,5 +1,5 @@
 {
-  "name": "seretos/testrail-php-api",
+  "name": "limetecbiotechnologies/testrail-php-api",
   "description": "testrail api for packagist with php namespace",
   "keywords": [
     "testrail",
@@ -7,7 +7,7 @@
     "client",
     "gurock"
   ],
-  "homepage": "https://github.com/Seretos/testrail-php-api",
+  "homepage": "https://github.com/LimetecBiotechnologies/testrail-php-api",
   "license": "MIT",
   "type": "library",
   "authors": [
