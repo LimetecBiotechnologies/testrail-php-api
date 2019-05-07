@@ -8,6 +8,6 @@ matrix:
   - php: 7.1
   - php: 7.2
 script:
-- composer install --no-dev
-- composer dump-autoload --optimize --no-dev --classmap-authoritative
+- composer install
+- composer dump-autoload --optimize --classmap-authoritative
 - vendor/bin/phpunit
